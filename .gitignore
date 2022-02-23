@@ -1,0 +1,6 @@
+tags
+packer
+unpacker
+*.o
+*.so
+*.a
